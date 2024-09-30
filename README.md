@@ -1,9 +1,14 @@
 # Coffee-Shop-Sales
 Coffee Shop Sales Analysis
+
+
+
 Tools Used: Excel, Pivot Tables, Data Transformation, Data Visualization
 
 Project Overview:
 Performed an in-depth analysis of coffee shop sales data to derive actionable insights that can enhance business performance and optimize sales strategies.
+
+
 
 Key Responsibilities:
 
@@ -14,6 +19,8 @@ Revenue analysis: Calculated total sales revenue per month and average order val
 Location-based insights: Compared sales performance across different store locations.
 Product-based insights: Identified best-selling products by both quantity and revenue.
 Category analysis: Analyzed sales trends by product categories and types.
+
+
 Key Achievements:
 
 Discovered peak sales periods, leading to optimized staffing and inventory management recommendations.
